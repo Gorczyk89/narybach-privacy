@@ -1,6 +1,6 @@
-# Rybolog: privacy policy and support
+# RyboLog: privacy policy and support
 
-The privacy policy and the support page of Rybolog, a fishing logbook for iPhone, published with GitHub Pages:
+The privacy policy and the support page of RyboLog, a fishing logbook for iPhone, published with GitHub Pages:
 
 - Privacy policy, Polish: https://gorczyk89.github.io/rybolog-privacy/
 - Privacy policy, English: https://gorczyk89.github.io/rybolog-privacy/en/
