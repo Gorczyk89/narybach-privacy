@@ -1,11 +1,11 @@
-# RyboLog: privacy policy and support
+# Na rybach: privacy policy and support
 
-The privacy policy and the support page of RyboLog, a fishing logbook for iPhone, published with GitHub Pages:
+The privacy policy and the support page of Na rybach, a fishing logbook for iPhone, published with GitHub Pages:
 
-- Privacy policy, Polish: https://gorczyk89.github.io/rybolog-privacy/
-- Privacy policy, English: https://gorczyk89.github.io/rybolog-privacy/en/
-- Support, Polish: https://gorczyk89.github.io/rybolog-privacy/support/
-- Support, English: https://gorczyk89.github.io/rybolog-privacy/en/support/
+- Privacy policy, Polish: https://gorczyk89.github.io/narybach-privacy/
+- Privacy policy, English: https://gorczyk89.github.io/narybach-privacy/en/
+- Support, Polish: https://gorczyk89.github.io/narybach-privacy/support/
+- Support, English: https://gorczyk89.github.io/narybach-privacy/en/support/
 
 The app links to the policy (Settings and the Plus screen), and App Store Connect's Privacy Policy URL is the
 Polish one. App Store Connect's Support URL is the support page (Polish for the Polish listing, English for both
