@@ -20,9 +20,10 @@ cookies, external fonts or CDNs.
 The terms pages are the app's custom licence agreement (App Store Connect → App Information → License Agreement)
 and the app's "Terms of Use (EULA)" link. Part 1 is our own terms of use (provider, requirements, purchases, Plus,
 the route guidance notice for "Wróć do punktu" / "Way Back", changes, complaints). Part 2 is Apple's standard
-Licensed Application EULA, copied unchanged: the Polish page carries Apple's Polish text from section P of the
-Polish Apple Media Services terms, the English page the text of Apple's Standard EULA page (both linked at the
-bottom of each page). When Apple changes its text, copy it again unchanged and update the date.
+Licensed Application EULA in Apple's EU version, copied unchanged: the Polish page carries Apple's Polish text
+from section P of the Polish Apple Media Services terms, the English page the English text from section P of the
+Irish ones (both linked at the bottom of each page), so both say the same. When Apple changes its text, copy it
+again unchanged and update the date.
 
 When the policy or the terms change, change both languages together and the date at the top of each ("Obowiązuje
 od" / "Effective"). When a setting the support page names moves in the app, change both support pages.
