@@ -16,4 +16,4 @@ static HTML: no scripts, trackers, cookies, external fonts or CDNs.
 When the policy changes, change both pages together and the date at the top of each ("Obowiązuje od" / "Effective").
 When a setting the support page names moves in the app, change both support pages.
 
-© 2026 Rafał Gorczyński · rafal.gorczynski89@gmail.com
+© 2026 Rafał Gorczyński · rafal.gorczynski.dev@gmail.com
