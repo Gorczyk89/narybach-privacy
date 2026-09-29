@@ -1,7 +1,7 @@
 # Na rybach: privacy policy, support and terms of use
 
-The privacy policy, the support page and the terms of use (EULA) of Na rybach, a fishing logbook for iPhone,
-published with GitHub Pages:
+The privacy policy, the support page and the terms of use (EULA) of Na rybach, a fishing logbook for iPhone and
+iPad, published with GitHub Pages:
 
 - Privacy policy, Polish: https://gorczyk89.github.io/narybach-privacy/
 - Privacy policy, English: https://gorczyk89.github.io/narybach-privacy/en/
